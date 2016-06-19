@@ -1,0 +1,5 @@
+{
+  "nominatim.host" : "nominatim",
+  "nominatim.port" : 80,
+  "nominatim.root" : "/"
+}
